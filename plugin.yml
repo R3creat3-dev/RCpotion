@@ -1,0 +1,8 @@
+name: RCpotions
+main: com.r3creat3.CommandExec
+version: 1.63
+commands:
+   potion:
+      description: Main menu for RCpotions. 
+      permission: rcpotions.all
+      permission-message: You can't access this!
